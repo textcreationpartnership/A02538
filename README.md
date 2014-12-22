@@ -35,65 +35,86 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Heauen vpon earth, or Of true peace, and tranquillitie of minde. By Ios. Hall.Hall, Joseph, 1574-165
+
+1. TO THE
+Right Honorable
+Henry Earle of
+Huntingdon, Lord
+Haſtings, Hungerford, Botreaux
+Molines & Moiles,
+his Maieſties Lieu-tenant in the
+Counties of Leiceſter and Rutland
+my ſingular good Lord
+all increaſe of true honor▪
+and Heauen begun
+vpon Earth.
+
 #####Body#####
 
-1. Sect. 1.
+1. HEAVEN
+vpon earth
+or
+of true peace of
+minde.
 
-1. Sect. 2.
+    _ Sect. 1.
 
-1. Sect. 3.
+    _ Sect. 2.
 
-1. Sect. 4.
+    _ Sect. 3.
 
-1. Sect. 5.
+    _ Sect. 4.
 
-1. Sect. 6.
+    _ Sect. 5.
 
-1. Sect. 7.
+    _ Sect. 6.
 
-1. Sect. 8.
+    _ Sect. 7.
 
-1. Sect. 9.
+    _ Sect. 8.
 
-1. Sect. 10.
+    _ Sect. 9.
 
-1. Sect. 11.
+    _ Sect. 10.
 
-1. Sect. 12.
+    _ Sect. 11.
 
-1. Sect. 13.
+    _ Sect. 12.
 
-1. Sect. 14.
+    _ Sect. 13.
 
-1. Sect. 15.
+    _ Sect. 14.
 
-1. Sect. 16.
+    _ Sect. 15.
 
-1. Sect. 17.
+    _ Sect. 16.
 
-1. Sect. 18.
+    _ Sect. 17.
 
-1. Sect. 19.
+    _ Sect. 18.
 
-1. Sect. 20.
+    _ Sect. 19.
 
-1. Sect. 21.
+    _ Sect. 20.
 
-1. Sect. 22.
+    _ Sect. 21.
 
-1. Sect. 23.
+    _ Sect. 22.
 
-1. Sect. 24.
+    _ Sect. 23.
 
-1. Sect. 25.
+    _ Sect. 24.
 
-1. Sect. 26.
+    _ Sect. 25.
 
-1. Sect. vlt.
+    _ Sect. 26.
+
+    _ Sect. vlt.
 
 #####Back#####
-Heauen vpon earth, or Of true peace, and tranquillitie of minde. By Ios. Hall.Hall, Joseph, 1574-165
+
+1. The Errata.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
